@@ -1,4 +1,4 @@
-# electron-builder-config-app
+# electron-builder-config-win-app
 This my config required setting for app build using electron-builder (Windows Application) -> Windows 7 or later
 
 Download this and paste in your latest project
