@@ -14,7 +14,7 @@
   },
   "build": {
     "appId": "ID Application",
-    "win": { //Windows config target
+    "win": {
       "target": [
         {
           "target": "nsis",
@@ -55,7 +55,7 @@
     "Keywords Application"
   ],
   "author": "Name of creator Application",
-  "license": "MIT", //license your used
+  "license": "MIT",
   "config": {
     "forge": {
       "packagerConfig": {},
