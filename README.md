@@ -3,8 +3,8 @@ This my config required setting for app build using electron-builder (Windows Ap
 
 Download this and paste in your latest project
 
-Command CLI for build different arch :
-32bit : build --ia32
-64bit : build --x64
+Command CLI for build different arch :<br/>
+32bit : build --ia32<br/>
+64bit : build --x64<br/>
 
 For more configuration see documentation from -> www.electron.build
